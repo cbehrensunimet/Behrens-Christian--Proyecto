@@ -1,0 +1,30 @@
+
+El juego consiste en recorrer el mapa e interactuar con los objetos que se encuentran en todos los cuartos.
+Cada objeto tendrá un juego y los juegos te darán recompensas.
+El objetivo del juego es llegar al último cuarto y vencer el juego final para salvar a la Universidad.
+Siempre deberá presionar la tecla [ENTER] seguida de la tecla que se le pide en el juego.
+
+Controles:
+
+Para moverte entre los cuartos usarás las siguientes teclas:
+[A] Izquierda
+[D] Derecha
+
+Para interactuar con los objetos usarás las siguientes teclas según su posición en el cuarto:
+[1] Izquierda
+[2] Centro
+[3] Derecha
+
+Mapa:
+ __________   ____________________   ____________
+│          │ │                    │ │            │
+│          │ │                    │_│            │
+│          │ │     Plaza del                     │
+│  ??????  │ │     Rectorado      │‾│ Biblioteca │
+│          │ │                    │ │            │
+│          │ │                    │ │            │
+│          │ │                    │ │            │
+ ‾‾‾│ │‾‾‾‾   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾   ‾‾‾‾‾│ │‾‾‾‾‾
+│‾‾‾‾‾‾‾‾‾‾│_│‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾│_│‾‾‾‾‾   ‾‾‾‾│
+│Servidores    Laboratorio SL-001   │  Pasillo   │
+│__________│‾│____________________│‾│____________│

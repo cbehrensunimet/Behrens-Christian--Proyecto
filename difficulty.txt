@@ -1,0 +1,4 @@
+facil, 30 minutos, 5 vidas, 5 pistas
+intermedio, 20 minutos, 3 vidas, 3 pistas
+dificil, 10 minutos, 2 vidas, 2 pistas
+imposible, 5 minutos, 1 vidas, 0 pistas
